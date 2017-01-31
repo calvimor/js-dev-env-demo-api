@@ -1,5 +1,5 @@
 {
-  "name": "node-api-example",
+  "name": "express-api-example",
   "version": "1.0.0",
   "description": "A simple API built in Node and Express hosted on Heroku",
   "main": "index.js",
@@ -11,12 +11,12 @@
     "express": "4.13.3"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "6.9.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/calvimor/js-dev-env-demo-api"
   },
-  "author": "Cory House",
+  "author": "Carlos Villamizar",
   "license": "MIT"
 }
